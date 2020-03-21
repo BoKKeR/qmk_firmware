@@ -26,6 +26,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define USE_SERIAL
 // #define USE_I2C
 
-
 /* Select hand configuration */
 #define SPLIT_HAND_PIN C7
